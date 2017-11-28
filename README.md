@@ -16,7 +16,7 @@ Two modern, flat, minimalistic Blender themes
 ![Video editing view](/screenshots/Dark/Video%20Editing.png)
 
 ## Concept
-The idea was to create a theme that doesn't hurt your eyes. No lines were used; borders were instead defined by changes in colors. Instead of bright colors, most of the UI elements use shades of gray.
+The idea was to create a theme that doesn't hurt your eyes. No lines were used; borders were instead defined by changes in colors. And instead of bright colors, most of the UI elements use shades of gray so you can focus on your work without distractions.
 
 ![Checkboxes](/screenshots/ui/checkboxes.png)
 
@@ -24,4 +24,4 @@ The idea was to create a theme that doesn't hurt your eyes. No lines were used; 
 
 ![Sliders](/screenshots/ui/sliders.png)
 
-While Blender allows to shade UI elements, this options wasn't used. Shaded buttons or checkboxes look nice individually, but Blender's interface is usually complicated, and shading would only make it look busy. This is why monotone colors were chosen.
+While Blender allows to shade UI elements, this option wasn't used. Shaded buttons or checkboxes look nice individually, but Blender's interface is usually complicated, and shading would only make it look busy. This is why monotone colors were chosen.
