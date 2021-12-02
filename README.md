@@ -1,3 +1,8 @@
+> Note: These themes were made before Blender 2.8. Now, Blender has an amazing look&feel and I don't think these themes are needed anymore.
+
+
+
+
 # Modern Blender Theme
 Two modern, flat, minimalistic Blender themes
 
